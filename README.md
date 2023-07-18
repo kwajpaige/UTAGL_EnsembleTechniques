@@ -3,6 +3,8 @@ Ensemble models use a collection of machine learning models to make predictions,
 
 The purpose of this project is to develop a deep understanding of different ensemble methods like bagging, boosting, and stacking and to implement these algorithms for classification and regression problems. 
 
+Link to Jupyter notebook: 
+
 ## Background
 The Policy Maker of a tourism company wants to enable and establish a viable business model to expand the customer base.
 One of the ways to expand the customer base is to introduce a new offering of packages.
